@@ -1,4 +1,4 @@
-CA-1 Back-End
+# CA-1 Back-End
 Course Assignment 1 - Back End
 
 Simple template to create SPA's with plain JavaScript using Babel, Webpack and Webpacks devserver
