@@ -34,7 +34,7 @@ server.get("/", (req, res, next) => res.render(path.join(__dirname, "index.ejs")
 { rules,url:"http://localhost:"+PORT+ROUTE, resourse: ROUTE }));
 
 
-let = cors = opts.cors;
+let cors = cors = opts.cors;
 cors = typeof cors === "undefined" ? true : cors;
 
 if (cors===true) {
